@@ -3,10 +3,6 @@ This is list of Python visualization packages
 
 List of Amazing Python Visualization libraries 
 
-
-
-## Contents
--
 ## Python tools
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-Lite.
 - [bokeh](http://bokeh.pydata.org/en/latest/) - Interactive Web Plotting for Python.
